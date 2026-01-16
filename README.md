@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.sanishtech.com/u/d25ee2d43caf68ca05053e30b49e2ea8.png" alt="PixVerse AI Account Checker Logo" width="200" />
+  <img src="logo.ico" alt="PixVerse AI Account Checker Logo" width="200" />
 </p>
 
 <h1 align="center">🎬 PixVerse AI Account Checker</h1>
